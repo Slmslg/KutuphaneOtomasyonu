@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\bin\Debug\KütüphaneOtomasyonu.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\KütüphaneOtomasyonu\KütüphaneOtomasyonu\obj\Debug\KütüphaneOtomasyonu.pdb
